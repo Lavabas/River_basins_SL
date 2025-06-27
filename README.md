@@ -12,11 +12,11 @@ The final map highlights major sub-basins and their associated rivers with width
 3. Country boundary from GISCO (Eurostat)
 
 🖋️ Citation
-Prepared by: Lavanya Baskaran
-Source: © World Wildlife Fund, Inc. (2006–2013) HydroSHEDS database
-https://www.hydrosheds.org
+   Prepared by: Lavanya Baskaran
+   Source: © World Wildlife Fund, Inc. (2006–2013) HydroSHEDS database
+   https://www.hydrosheds.org
 
 🛠️ Notes
-Adjust flow width or color scale using ORD_FLOW as needed.
-North arrow and scale bar can be added with ggspatial::annotation_* functions if needed.
-Set working directory with getwd() or use RStudio Projects.
+   Adjust flow width or color scale using ORD_FLOW as needed.
+   North arrow and scale bar can be added with ggspatial::annotation_* functions if needed.
+   Set working directory with getwd() or use RStudio Projects.
