@@ -11,6 +11,15 @@ The final map highlights major sub-basins and their associated rivers with width
    https://data.hydrosheds.org/file/HydroRIVERS/HydroRIVERS_v10_as.gdb.zip
 3. Country boundary from GISCO (Eurostat)
 
+   Required R packages 
+1. ```r
+2. tidyverse
+3. sf
+4. giscoR
+5. magick
+6. ggspatial
+7. ggplot2
+
 🖋️ Citation
    1. Prepared by: Lavanya Baskaran
    2. Source: © World Wildlife Fund, Inc. (2006–2013) HydroSHEDS database
