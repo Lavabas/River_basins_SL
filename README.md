@@ -1,6 +1,7 @@
 # River_basins_SL
 It shows the river basins of Sri Lanka through a map created using R. 
-![SL_Rivers_map](images/srilanka_river_basins.png)
+![srilanka_river_basins](https://github.com/user-attachments/assets/444f6105-79f9-455e-81e5-20a1c21d50c5)
+
 This project extracts, processes, and visualizes river basins and river networks in **Sri Lanka** using spatial hydrological datasets from the **HydroSHEDS** database.
 The final map highlights major sub-basins and their associated rivers with width classes and color variations using **ggplot2** and **sf** in R.
 
